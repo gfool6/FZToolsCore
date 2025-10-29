@@ -5,7 +5,7 @@
 <br>
 <br>
 
-各ツールのインストールは[こちら](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm.json)
+各ツールのインストールは[こちら](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm-list.json)
 
 <br>
 <br>
