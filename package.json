@@ -1,11 +1,13 @@
 {
     "name": "com.gfool6.fztools.core",
     "displayName": "FZTools Core",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2022.3",
     "description": "gfool6's avatar custom tool.",
     "vpmDependencies": {
-        "com.vrchat.avatars": ">=3.8.0",
-        "nadena.dev.modular-avatar": ">=1.14.0"
+        "com.vrchat.avatars": ">=3.10.3",
+        "nadena.dev.modular-avatar": ">=1.17.1",
+        "com.anatawa12.avatar-optimizer": ">=1.9.14",
+        "jp.lilxyzw.lilycalinventory": ">=1.5.2"
     }
 }
